@@ -1,0 +1,11 @@
+In this Module 5 Challenge we ananlysed the datasets of 249 mice  who received treatment 
+with a range of drug regimens for squamous cell carcinoma, over a period of 45 days in which tumor 
+development was observed.
+
+Concluding this analysis the most notable conclusions that were made , include:
+-The only outlier obnserved within any drug regimen in relation to tumor volume was in Infubinol
+-Out of the four drug regimens the two that stood out that resulted in lower final volumes as a whole
+were Capomulin and Ramicane, furthermore, the selected mouse that was treated with Capomulin showed
+a noteable decrease in tumor volume throughout the different timepoints(negative correlation)
+-a positive correlation was  noted between weight and average tumor volume,therefore, the heavier the mouse 
+the larger the tumor they would have.  
